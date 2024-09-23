@@ -30,7 +30,7 @@ const projects = [
     description:
       "This project is a personal portfolio website built using React.js to showcase my skills, projects, and experience. Further, you can see my profile and contact me through this portfolio.",
     getImageSrc: () => require("../images/photo4.jpg"),
-    url: "https://github.com/oscarjm97",
+    url: "https://github.com/oscarjm97/react-my-portfolio",
   },
 ];
 
