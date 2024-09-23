@@ -14,7 +14,7 @@ const projects = [
   {
     title: "React Shopping Cart",
     description:
-    "An intuitive and interactive web application that allows users to browse products, add items to a shopping cart and remove them.",
+    "An intuitive and interactive web application that allows users to browse products, add items to a shopping cart and remove them. The app provides a seamless online shopping experience, featuring dynamic UI updates, real-time data, and responsive design.",
     getImageSrc: () => require("../images/photo2.jpg"),
     url: "https://github.com/oscarjm97/react-shopping-cart",
   },
